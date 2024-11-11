@@ -52,7 +52,7 @@ int main() {
         
     srand((unsigned)time(0)); //random number
     int i;
-    i = (rand()%999)+100;
+    i = (rand()%900)+100;
     int code;
     char idk;
         
